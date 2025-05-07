@@ -31,12 +31,6 @@ public class Main {
         System.out.println(studiantList.readStudiant("3456"));
         System.out.println(studiantList.readStudiant("678666"));
 
-        System.out.println("1");
-        System.out.println("2");
-        System.out.println("3");
-
-
-
 
     }
 }
